@@ -4,8 +4,8 @@
 #
 # Name: Emmanuel Ndignam Nelimo
 # STUDENT ID: 2425401719
-# Email: ndigname@gmail.com
-# Grader: Augustus buckman
+# Email: 2425401719@live.gctu.edu.gh
+# Grader: Augustus 
 #
 # On my honor, Emmanuel Ndignam Nelimo, this programming assignment is my own work
 # and I have not provided this code to any other student.
@@ -19,7 +19,7 @@ def main():
     # Three periods on left and right of each letter/period pair
     
     print()
-    print("...ENN...")
+    print("...ENN")
     print()
     
      # Line 1
