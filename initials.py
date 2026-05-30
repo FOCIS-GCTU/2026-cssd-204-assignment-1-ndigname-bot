@@ -5,7 +5,7 @@
 # Name: Emmanuel Ndignam Nelimo
 # STUDENT ID: 2425401719
 # Email: ndigname@gmail.com
-# Grader: Carolyn
+# Grader: Augustus buckman
 #
 # On my honor, Emmanuel Ndignam Nelimo, this programming assignment is my own work
 # and I have not provided this code to any other student.
